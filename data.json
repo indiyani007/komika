@@ -1,0 +1,117 @@
+{
+  "settings": {
+    "title": "Warung Techno",
+    "description": "Aplikasi premium untuk kerja, kreasi, dan hiburan. Temukan pilihan digitalmu di Warung Techno.",
+    "bannerTitle": "Upgrade aplikasi. Maksimalkan harimu.",
+    "bannerDescription": "Satu tempat untuk kebutuhan digitalmu. Pilih aplikasi favorit, pesan dengan mudah, dan mulai hal baru.",
+    "footer": "© Warung Techno. Teman kebutuhan digitalmu.",
+    "whatsapp": "",
+    "telegram": "",
+    "logo": "",
+    "favicon": "",
+    "googleVerification": ""
+  },
+  "categories": [
+    "Desain",
+    "Produktivitas",
+    "Hiburan"
+  ],
+  "products": [
+    {
+      "id": "p1",
+      "title": "Canva Pro",
+      "category": "Desain",
+      "price": 5000,
+      "symbol": "Ca",
+      "color": "#d6eeee",
+      "description": "Bikin desain lebih mudah, dari ide sampai jadi.",
+      "duration": "1 bulan",
+      "image": "",
+      "active": true,
+      "auto": true,
+      "stockCount": 0
+    },
+    {
+      "id": "p2",
+      "title": "ChatGPT Plus",
+      "category": "Produktivitas",
+      "price": 75000,
+      "symbol": "AI",
+      "color": "#e0ebdd",
+      "description": "Teman berpikir untuk ide dan pekerjaanmu.",
+      "duration": "1 bulan",
+      "image": "",
+      "active": true,
+      "auto": true,
+      "stockCount": 0
+    },
+    {
+      "id": "p3",
+      "title": "YouTube Premium",
+      "category": "Hiburan",
+      "price": 25000,
+      "symbol": "▶",
+      "color": "#f8dfdb",
+      "description": "Nikmati video favorit dengan lebih nyaman.",
+      "duration": "1 bulan",
+      "image": "",
+      "active": true,
+      "auto": true,
+      "stockCount": 0
+    },
+    {
+      "id": "p4",
+      "title": "CapCut Pro",
+      "category": "Desain",
+      "price": 27000,
+      "symbol": "✂",
+      "color": "#e5e4ef",
+      "description": "Waktunya bikin konten yang lebih kreatif.",
+      "duration": "1 bulan",
+      "image": "",
+      "active": true,
+      "auto": true,
+      "stockCount": 0
+    },
+    {
+      "id": "p5",
+      "title": "Spotify Premium",
+      "category": "Hiburan",
+      "price": 25000,
+      "symbol": "♫",
+      "color": "#dfedcc",
+      "description": "Musik favorit untuk menemani harimu.",
+      "duration": "1 bulan",
+      "image": "",
+      "active": true,
+      "auto": true,
+      "stockCount": 0
+    },
+    {
+      "id": "p6",
+      "title": "Microsoft 365",
+      "category": "Produktivitas",
+      "price": 45000,
+      "symbol": "M",
+      "color": "#f3e7db",
+      "description": "Aplikasi produktivitas untuk aktivitas harian.",
+      "duration": "1 bulan",
+      "image": "",
+      "active": true,
+      "auto": true,
+      "stockCount": 0
+    }
+  ],
+  "pages": [
+    {
+      "slug": "contact",
+      "title": "Hubungi kami",
+      "content": "Punya pertanyaan tentang produk? Hubungi admin melalui tombol WhatsApp di bawah. Jam layanan dan nomor kontak dapat diatur oleh pemilik toko."
+    },
+    {
+      "slug": "tentang",
+      "title": "Tentang Warung Techno",
+      "content": "Warung Techno menyediakan pilihan aplikasi untuk kebutuhan digital sehari-hari.\n\nTanyakan jenis lisensi, masa aktif, ketentuan penggunaan, serta dukungan setiap produk kepada admin sebelum membeli.\n\nProduk dan harga pada instalasi awal merupakan contoh. Pemilik toko perlu memperbaruinya sebelum menerima pesanan."
+    }
+  ]
+}
